@@ -1,4 +1,4 @@
-#Image-Compression
+# Image-Compression
 
 You are an engineer in Shutterstock and responsible for optimizing the web experience on the site. You will serve images that exhibit minimal distortion at the best possible storage efficiency. You need to come up with a python implementation that takes images in and compresses them to satisfy the requirements found [here](https://github.com/kefsaj/CS652Image-Compression).
 
